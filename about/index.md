@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: My Data
 templateClass: tmpl-post
 eleventyNavigation:
   key: About Me
